@@ -1,5 +1,5 @@
 {
-  "name": "HandlebarsWatcher",
+  "name": "handlebars-watcher",
   "version": "0.0.1",
   "description": "Directory watcher for handlebars files and will compile into specified directory on change.",
   "main": "handlebars-watcher.js",

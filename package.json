@@ -1,0 +1,26 @@
+{
+  "name": "HandlebarsWatcher",
+  "version": "0.0.1",
+  "description": "Directory watcher for handlebars files and will compile into specified directory on change.",
+  "main": "handlebars-watcher.js",
+  "scripts": {
+    "test": "./handlebars-watcher-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amaurer/HandlebarsWatcher.git"
+  },
+  "keywords": [
+    "Handlebars",
+    "Wather",
+    "Directory",
+    "Compile",
+    "Pre-Compile",
+    "automatic",
+    "Files",
+    "file"
+  ],
+  "author": "amaurer",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
